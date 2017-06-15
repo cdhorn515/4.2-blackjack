@@ -1,6 +1,6 @@
-(function() {
-
-  'use strict';
+// (function() {
+//
+//   'use strict';
 
 
   /*
@@ -50,4 +50,4 @@
   A       ==> Worth 1 or 11
 
   */
-})();
+// })();
